@@ -3,7 +3,7 @@ MAS sistemaMultiagenteDoenca {
 	infrastructure: Centralised
 
 	agents:
-		agent1 sample_agent;
+		pessoa;
 
 	aslSourcePath:
 		"src/asl";
